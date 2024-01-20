@@ -1,6 +1,7 @@
 # Eli Lockard
 
 [LinkedIn](https://www.linkedin.com/in/eli-lockard/)
+
 [GitHub](https://github.com/ehl7)
 
 # Summary
