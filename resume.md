@@ -1,18 +1,16 @@
-# Your Name
+# Eli Lockard
 
-your.name@example.com
-
-http://www.example.com
-
-http://www.linkedin.com/in/yourname
+[My LinkedIn](www.linkedin.com/in/eli-lockard)
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+> I am currently a senior at the University of Washington majoring in Geography: Data Science.
 
-# Work Experience (only last 10 years)
+# Projects
 
-## University Name 1 (City, State)
+## Pet Friendly Web Map of Seattle
+
+![Screenshot of the Pet Friendly Web Map of Seattle](map.png)
 
 * [University 1][] description, particularly if not well-known.*
 
@@ -37,19 +35,5 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
