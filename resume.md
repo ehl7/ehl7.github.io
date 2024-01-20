@@ -1,6 +1,7 @@
 # Eli Lockard
 
-[My LinkedIn](www.linkedin.com/in/eli-lockard)
+[LinkedIn](https://www.linkedin.com/in/eli-lockard/)
+[GitHub](https://github.com/ehl7)
 
 # Summary
 
@@ -12,28 +13,11 @@
 
 ![Screenshot of the Pet Friendly Web Map of Seattle](map.png)
 
-* [University 1][] description, particularly if not well-known.*
+The [Pet Friendly Web Map of Seattle](https://risan03-2165658.github.io/geog328_pet_friendly/index.html) was created as a final group project for the Geography 328 Web GIS class at UW. This web GIS application can be used to help locate resources for pet owners within the Seattle area.
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-
+**Tools and technologies Used**
+- HTML
+- CSS
+- Javascript
+- Mapbox GL JS
+- Turf.js
